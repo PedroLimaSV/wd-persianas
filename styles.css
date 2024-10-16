@@ -1,0 +1,50 @@
+/* Estilos básicos do site */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:  rgb(231, 184, 96);
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005f73;
+}
+
+footer {
+    background-color: #000000;
+    color: rgb(196, 144, 49);
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.imglogo {
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: auto;
+    padding-top: 10px;
+    
+
+}
